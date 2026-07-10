@@ -1,0 +1,5 @@
+Rows,PandasSeconds,PySparkSeconds,Faster
+1000,0.009,6.162,Pandas
+20000,0.009,1.361,Pandas
+100000,0.016,3.081,Pandas
+500000,0.067,10.563,Pandas
